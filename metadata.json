@@ -1,0 +1,6 @@
+{
+  "name": "Wood'Z Kebab House",
+  "description": "Artisanal 100% Beef Kebab House across Alsace. Discover our menu, branches, and authentic gourmet dishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
